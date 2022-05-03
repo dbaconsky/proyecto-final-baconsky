@@ -1,0 +1,32 @@
+nav{
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: rgb(19, 132, 236);
+}
+.fondo{
+    background-color: black;
+    font-size: x-large;
+    
+}
+.fondo-1{
+    font-size: 40px;
+}
+.curso{
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: underline;
+}
+.der{
+    padding: 20px;
+    background-color: bisque;
+}
+.fot{
+    background-color: black;
+}
+.form{
+    background-color: aqua;
+    margin: 30px auto;
+    width: 500px;
+}
